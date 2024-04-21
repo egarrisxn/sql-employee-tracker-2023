@@ -13,16 +13,17 @@ A command-line application that manage's a company's employee database, using No
 ## Table of Contents
 
 - [Technologies](#technologies)
-- [Installation & Usage](#installation-&-Usage)
+- [Installation](#installation)
+- [Usage](#usage)
 - [Acknowledgements](#acknowledgements)
 - [License](#license)
 - [Questions](#questions)
 
 ## Technologies
 
-- Node.js
-- Mysql
-- Inquirer
+- **Node.js**
+- **Mysql**
+- **Inquirer**
 
 ## Installation
 
@@ -34,8 +35,11 @@ A command-line application that manage's a company's employee database, using No
 
 ## Usage
 
-4. Run the command `node index.js` to run the software.
-5. The command prompt will begin on your terminal.
+*Note: You will need to create a .env file to store sensitive data.*
+
+4. Setup and seed your database within MySQL.
+5. Run the command `node index.js` to get the software running.
+6. The command prompt will begin on your terminal.
 
 ## Acknowledgements
 
