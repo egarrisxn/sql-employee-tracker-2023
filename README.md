@@ -1,4 +1,4 @@
-# Express Note Taker
+# SQL Employee Tracker
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
@@ -7,6 +7,8 @@ _Initially created in the spring of 2023 for my UCF Full-Stack Web Development B
 ## Description
 
 A command-line application that manage's a company's employee database, using Node.js, Inquirer, and MySQL.
+
+![Screenshot 2024-04-21 183612](https://github.com/EGARRISXN/sql-employee-tracker/assets/126130230/bbe9968e-f9e8-42ff-aac6-ff4b54ec97e7)
 
 ## Table of Contents
 
@@ -18,16 +20,21 @@ A command-line application that manage's a company's employee database, using No
 
 ## Technologies
 
-1. Node.js
-2. Mysql
-3. Inquirer
+- Node.js
+- Mysql
+- Inquirer
 
-## Installation & Usage
+## Installation
+
+*Note: You must have Node.js and MySQL installed on your local machine.*
 
 1. Clone the Repository on to your machine.
 2. Open the terminal and ensure you are in the right file path.
 3. Run the command `npm install` to download the packages.
-4. Then run the command `node index.js` to run the software.
+
+## Usage
+
+4. Run the command `node index.js` to run the software.
 5. The command prompt will begin on your terminal.
 
 ## Acknowledgements
