@@ -1,5 +1,7 @@
-node_modules
 package-lock.json
-.vscode
+pnpm-lock.yaml
+yarn.lock
+node_modules
 .DS_Store
 .env
+.vscode

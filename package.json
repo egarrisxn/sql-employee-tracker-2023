@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Command-line application that allows the user to manage a company's employee database, using Node.js, Inquirer, and MySQL.",
   "type": "module",
-  "author": "Ethan Garrison",
+  "author": "Ethan G",
   "license": "MIT",
   "main": "index.js",
   "scripts": {

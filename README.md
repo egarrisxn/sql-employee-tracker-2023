@@ -21,25 +21,26 @@ A command-line application that manage's a company's employee database, using No
 
 ## Technologies
 
-- **Node.js**
-- **Mysql**
-- **Inquirer**
+- Node.js
+- Mysql
+- Inquirer
 
 ## Installation
 
-*Note: You must have Node.js and MySQL installed on your local machine.*
+_Note: You must have Node.js and MySQL installed on your local machine._
 
-1. Clone the Repository on to your machine.
-2. Open the terminal and ensure you are in the right file path.
-3. Run the command `npm install` to download the packages.
+1. Clone this repository to your local machine.
+2. Select & download your package manager: [npm](https://www.npmjs.com/), [pnpm](https://pnpm.io/), or [yarn](https://yarnpkg.com/).
+3. Inside your terminal, run `npm install`, `pnpm install`, or `yarn install`
 
 ## Usage
 
-*Note: You will need to create a .env file to store sensitive data.*
+_Note: You will need to create a .env file to store your sensitive data._
 
 4. Setup and seed your database within MySQL.
-5. Run the command `node index.js` to get the software running.
-6. The command prompt will begin on your terminal.
+5. In your terminal, run `node index.js`.
+6. Answer the questions prompted within your terminal.
+7. Fin!
 
 ## Acknowledgements
 
@@ -51,4 +52,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Questions
 
-Feel free to reach out to me via [GitHub](https://github.com/EGARRISXN), or email me directly at egarrisxn@gmail.com.
+Questions? Comments? Concerns? Reach out to me via [GitHub](https://github.com/EGARRISXN) or email at egarrisxn@gmail.com.
