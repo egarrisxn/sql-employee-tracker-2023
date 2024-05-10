@@ -10,15 +10,14 @@
     "start": "node index.js"
   },
   "keywords": [
-    "cli",
-    "command-line",
-    "javascript",
-    "node.js",
-    "inquirer",
     "mysql",
     "mysql2",
-    "employee",
-    "tracker"
+    "inquirer",
+    "node.js",
+    "javascript",
+    "cli",
+    "command-line",
+    "employee-tracker"
   ],
   "dependencies": {
     "console.table": "^0.10.0",
