@@ -1,6 +1,6 @@
 # SQL Employee Tracker
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![GitHub repo size](https://img.shields.io/github/repo-size/egarrisxn/sql-employee-tracker)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![GitHub repo size](https://img.shields.io/github/repo-size/egarrisxn/sql-employee-tracker) ![GitHub last commit](https://img.shields.io/github/last-commit/egarrisxn/sql-employee-tracker)
 
 _Initially created in the spring of 2023 for my UCF Full-Stack Web Development Bootcamp._
 
